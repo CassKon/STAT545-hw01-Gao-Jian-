@@ -56,7 +56,7 @@ p + geom_point(alpha = (1/3), size = 3) + facet_wrap(~ continent) +
 - I knited the R to preview and after this I commit and pused to Github
 
 ## Feedback 
-The markdown is fair and I have seeked for help from youtube and class notes. 
+The Rmarkdown is fair and I have seeked for help from youtube and class notes. However, the plot and tables shows up in knitr but disappeared when I upload to the Github.
 ```
 
 
