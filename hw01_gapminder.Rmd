@@ -1,7 +1,6 @@
 ---
 title: "hw01_gapminder"
 output:
-  html_document: default
   github_document: default
 ---
 
